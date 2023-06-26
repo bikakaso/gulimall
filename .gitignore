@@ -40,3 +40,4 @@ buildNumber.properties
 **/HELP.md
 .idea
 **/.gitignore
+renren-generator
