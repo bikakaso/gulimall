@@ -41,3 +41,5 @@ buildNumber.properties
 .idea
 **/.gitignore
 renren-generator
+**/src/main/resources/rebel.xml
+**/gulimall*.iml
