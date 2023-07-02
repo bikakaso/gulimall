@@ -4,8 +4,8 @@ spring:
         druid:
             driver-class-name: com.mysql.cj.jdbc.Driver
             url: jdbc:mysql://8.130.84.44:3306/gulimall_admin?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
-            username: bikaso
-            password: root
+            username: bikakaso
+            password: bi123456
             initial-size: 10
             max-active: 100
             min-idle: 10
